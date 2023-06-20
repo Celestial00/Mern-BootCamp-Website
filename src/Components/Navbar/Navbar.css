@@ -1,0 +1,61 @@
+nav{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    list-style: none;
+    text-decoration: none;
+    background-color: var(--primary-color);
+    border: none;
+
+}
+
+.Logo-list{
+
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+
+
+.Logo-list h1{
+
+    font-size: 1.25em; 
+    font-weight: 500;
+    margin-right: 20px;
+   
+}
+
+
+.Logo-list li{
+
+    display: inline-block;
+    margin: 10px;
+   
+
+}
+
+a{
+
+    font-size: 15px;
+    text-decoration: none;
+    letter-spacing: 1px;
+
+}
+
+.btns a{
+
+
+    margin-right: 5px;
+    padding: 7px;
+    font-weight: 400;
+    background-color: var(--secondary-color);
+    border-radius: 10px;
+    letter-spacing: 1px;
+
+
+}
